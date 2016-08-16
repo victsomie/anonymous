@@ -1,4 +1,4 @@
-
+##Function to Find prime Numbers
 
 def isPrime(n):
 	if n < 2:
@@ -22,3 +22,4 @@ def primes(p):
 
 
 print primes(20)
+
