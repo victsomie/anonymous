@@ -4,8 +4,6 @@
 # bc-9-anonymous
 Repo for Anonymous team
 
-Understand the Gitflow
-Source: Github Guides
 
 # Understand the Gitflow
 
