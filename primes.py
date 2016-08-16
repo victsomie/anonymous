@@ -20,4 +20,5 @@ def primes(p):
 			nums.append(x)
 	return nums
 
+
 print primes(20)
